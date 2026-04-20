@@ -1,4 +1,3 @@
-https://drive.google.com/file/d/1hJKEDaNLk0jpT74t_edVvrhgmM4Ln3m6/view?usp=sharing
 # Hexapod Manual Control (Isaac Sim)
 
 ## 🚀 Overview
@@ -69,7 +68,11 @@ python hexapod_motion_player.py
 * Not saving file → no update
 * Wrong number of values → ignored
 * Robot not visible → press **F** to focus
+## 🎥 Demo Video
 
+[Watch the hexapod robot in action]
+https://drive.google.com/file/d/1RxVIGgP5j7s5WgK1-dcySjRM4ggEVcKf/view?usp=sharing
+https://drive.google.com/file/d/1KJ_qd-gwgjf9YHZA-k3rhcMofV6cAbfI/view?usp=sharing
 ---
 
 ## 📌 Summary
