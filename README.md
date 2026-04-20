@@ -12,6 +12,10 @@ The robot was modeled in SolidWorks and tested in NVIDIA Isaac Sim to study move
 ---
 
 ## 📸 Project Preview
+## 🎥 Demo Video
+
+[Watch the hexapod robot in action](MAIN_VIDEO_LINK)
+https://drive.google.com/file/d/1KJ_qd-gwgjf9YHZA-k3rhcMofV6cAbfI/view
 
 <img width="1918" height="1079" alt="Screenshot 2026-04-20 173100" src="https://github.com/user-attachments/assets/30513ce5-1982-437f-bbbc-df81f3209897" />
 <img width="1919" height="1079" alt="Screenshot 2026-04-20 173005" src="https://github.com/user-attachments/assets/b30e8af8-ac57-4a2a-8a8d-0dc5c346ecf8" />
