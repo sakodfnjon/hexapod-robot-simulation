@@ -13,6 +13,8 @@ This folder contains images of the hexapod robot design and simulation.
 <img width="1920" height="1080" alt="Screenshot 2026-04-20 183655" src="https://github.com/user-attachments/assets/3985a6e5-e98f-413d-9ed8-cfc9d59f2955" />
 - Simulation view
   <img width="1919" height="1041" alt="Screenshot 2026-04-20 172509" src="https://github.com/user-attachments/assets/96ba0c90-3ad2-449c-9ffe-ddb34c4fb9c3" />
+  <img width="1906" height="945" alt="image" src="https://github.com/user-attachments/assets/c065d7e1-4f91-4af7-8c10-57a6a67813ef" />
+
 
 
 Refer to the main README for project details.
